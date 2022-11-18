@@ -15,7 +15,7 @@ public class IteratorDemo {
 	}
 
 	public static void main(String[]args) {
-		LinkedList<String>player = new LinkedList<String>();
+		LinkedList<String> player = new LinkedList<String>();
 		
 		
 		player.add("Dhoni");
