@@ -9,7 +9,7 @@ import java.util.Iterator;
 		
 		void display(LinkedList<String>list) {
 			
-			ListIterator<String> it=list.listIterator();
+			ListIterator<String> it=list.listIterator(list1.size());
 			while(it.hasNext()) 
 			{
 				System.out.println("Player name is:"+it.next());
@@ -31,7 +31,7 @@ import java.util.Iterator;
 			System.out.println("**********************");
             System.out.println(player.size());
             System.out.println(player.contains("Hardik"));
-            player.
+            
 			
 			ListIteratorDemo im=new ListIteratorDemo();
 			
