@@ -21,15 +21,15 @@ public class DecisionStatement {
 		
 		if(firstNumber == 5)
 		{
-			System.out.println("firstNumberequals to 5");
+			System.out.println("first Number equals to 5");
 		}
 		else if(firstNumber> 5)
 		{
-			System.out.println("XfirstNumberis greater to 5");		
+			System.out.println("Xfirst Number is greater to 5");		
 		}
 		else
 		{
-			System.out.println("firstNumber is smaller than 5");
+			System.out.println("first Number is smaller than 5");
 		}
 		
 	}
