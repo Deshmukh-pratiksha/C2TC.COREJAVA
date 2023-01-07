@@ -1,4 +1,4 @@
-package com.array;
+package com.capgemini.array;
 
 public class JaggedArray {
 	
@@ -31,4 +31,3 @@ public class JaggedArray {
 	 
 	}
 	} 
-

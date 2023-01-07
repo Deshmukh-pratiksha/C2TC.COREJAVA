@@ -1,4 +1,4 @@
-package com.array;
+package com.capgemini.array;
 
 public class Test1 
 {

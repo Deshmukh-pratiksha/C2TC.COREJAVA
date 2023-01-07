@@ -31,9 +31,5 @@ import java.util.HashMap;
 		
 		System.out.println(hm.keySet());
 		System.out.println(hm.values());
-		
-
 		}
-
-	}
-
+}

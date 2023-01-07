@@ -36,5 +36,3 @@ package com.capgemini.exception;
 		}
 
 	}
-
-

@@ -5,5 +5,5 @@
  * @author aditya com
  *
  */
-module pro1 {
+module HashmapDemo {
 }
